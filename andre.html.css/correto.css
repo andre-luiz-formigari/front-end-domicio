@@ -1,0 +1,80 @@
+/*ponto de partida e html epaço para aceleração dee variaveis gloabais a erem estilizzada ao trabalho inteiro 
+
+*/
+
+:root{
+--cor-de-fundo: #EBECEE;
+--branco:#FFFFFF;
+--laranja:#EB9800;
+--azul-deggrade:linear-graiente(97.54,deg #002f52 35.40%, #326589 165.37%);
+--preto:#000000;
+
+}
+body{
+    background-color: var(--cor-de-fundo);
+    width: 100%;
+
+}
+.cabeçalho_menu-hamburguer{
+    width: 24px;
+    height: 24px;
+    margin-left: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+}
+.cabeçalho{
+    background-color: #72c4c4;
+    display: inline-block;
+}
+.lista_menu_link{
+    color: rgb(218, 24, 24);
+}
+.conteiner{
+    background-color: #72c4c4;
+    align-items: center;
+    display: inline-block;
+    text-align: right;
+}
+.lista_menu{
+    display: block;
+    font-size: small;
+    width: auto;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+}
+
+
+.cor{
+    background-color: #72c4c4;
+}
+section{
+    background-color: #72c4c4;
+}
+
+.listamenu_link{
+    color: rgb(0, 0, 0);
+
+}
+  
+    
+
+
+
+.lista_menu_titulo{
+    margin-top:- 0.1em;
+    margin-bottom: -0.1em;
+   
+}
+li{
+    margin-top: -0.4em;
+    margin-bottom: -0.4em;
+   
+}
+
+
+
+/*
+position absolute
+top 100%
+/*
